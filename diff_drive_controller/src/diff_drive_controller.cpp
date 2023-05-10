@@ -56,7 +56,7 @@ controller_interface::return_type DiffDriveController::init(const std::string & 
   {
     return ret;
   }
-
+  //参数
   try
   {
     // with the lifecycle node being initialized, we can declare parameters
